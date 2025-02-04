@@ -1,0 +1,7 @@
+Extracted Text from Image:
+Dr John Smith MD Non Important Street; New Yoik Phonc (0oo)-141-2222 Name Maria Sharapova Date; 5/11/2022 Address: 9 tennis court; new Russia, DC Prednisone 20 mg Lialda 2.4 gram Directions: Prednisone; Taper 5 mg days; Finish in 2.5 weeks Lialda take 2 pill everyday for 1 month Refill; times revery
+
+Named Entity Recognition Results:
+Entity: Prednison, Label: TREATMENT, Score: 0.6904
+Entity: ##e, Label: TREATMENT, Score: 0.6752
+Entity: Prednisone, Label: TREATMENT, Score: 0.9456
