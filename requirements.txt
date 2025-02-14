@@ -1,1 +1,6 @@
 
+pandas
+spacy
+tkinter 
+transformers 
+torch

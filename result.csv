@@ -1,2 +1,12 @@
 Nom_Produit,Dosage,Principe_Actif,Type_Produit,Date_Expiration,Date_Fabrication,Date_Delivrance,Numero_Lot,Quantite_Boite,Prix,PPA,Tarif_Reference,SHP
-Expandol,300 mg,Expandol,Poudre pour sol.buy en sachet,03/2027,03/2024,29/11,071,,119.3,119.3,120.0,0
+
+"Au sachet dans
+vignette biogalenic
+expandol",300 mg,,Poudre pour sol.buy en sachet,03/2027,03/2024,,071,,119.0,,,
+,,,,05/2026,05/2024,,086,,649.81,652.11,,
+"Laboratoires salem
+lowgas",125 mg,,Gélules,,,,205G3,,,390.0,,
+,,,,,,,086,,649.81,652.11,,,
+"Au sachet dans
+vignette biogalenic
+expandol",300 mg,,sachet,,,,071,,119.0,,,0,
